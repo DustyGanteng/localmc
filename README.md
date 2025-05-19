@@ -38,3 +38,5 @@ Artinya, kamu bisa memakai dan mengubah situsnya selama kamu menaruh "Made by FQ
 ## Penutup
 
 Terima kasih kepada HerrFisch atas sumber daya yang telah disediakan.
+
+Also, i am sorry about that pull req that i have mistakenly made, i chose the wrong repository
